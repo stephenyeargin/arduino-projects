@@ -1,0 +1,6 @@
+[submodule "vendor/arduino-morse"]
+	path = vendor/arduino-morse
+	url = https://code.google.com/p/arduino-morse/
+[submodule "vendor/WiFly-Shield"]
+	path = vendor/WiFly-Shield
+	url = https://github.com/sparkfun/WiFly-Shield.git
